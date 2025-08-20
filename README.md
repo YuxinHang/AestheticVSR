@@ -13,7 +13,7 @@ This work builds on diffusion models as the foundation for video generation and 
 ## Result Examples
 
 <p align="center">
-  <img src="images/cat_comparison.png" alt="Generated Results" width="500"/>
+  <img src="images/cat_comparison.png" alt="Generated Results" width="600"/>
   <br/>
   <em>Figure 2: Example of generated high-quality video frames using AestheticVSR.</em>
 </p>
