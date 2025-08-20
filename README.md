@@ -5,7 +5,7 @@ The AestheticVSR is a VSR model to create high-quality videos.
 This work builds on diffusion models as the foundation for video generation and introduces a novel loss function that incorporates the aesthetic quality score from VBench to further enhance video quality.
 
 <p align="center">
-  <img src="images/AestheticVSR_diagram.png" alt="Model Overview" width="700"/>
+  <img src="images/AestheticVSR_diagram.png" alt="Model Overview" width="800"/>
   <br/>
   <em>Figure: Overview of the proposed video quality enhancement model.</em>
 </p>
@@ -13,7 +13,7 @@ This work builds on diffusion models as the foundation for video generation and 
 ## Result Examples
 
 <p align="center">
-  <img src="images/cat_comparison.png" alt="Generated Results" width="700"/>
+  <img src="images/cat_comparison.png" alt="Generated Results" width="500"/>
   <br/>
   <em>Figure 2: Example of generated high-quality video frames using AestheticVSR.</em>
 </p>
